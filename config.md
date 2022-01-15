@@ -1,4 +1,4 @@
 {if
     G => F
             then
-            fuck off}
+            frig off}
